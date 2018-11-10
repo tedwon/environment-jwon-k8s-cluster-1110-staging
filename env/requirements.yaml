@@ -1,12 +1,15 @@
 dependencies:
+- name: angular-io-quickstart
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: demo1110
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- alias: expose
+- alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.82
-- alias: cleanup
+- alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.82
