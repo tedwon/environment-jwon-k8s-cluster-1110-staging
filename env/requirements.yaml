@@ -25,6 +25,9 @@ dependencies:
 - name: react-quickstart
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: scala-akka-http-quickstart
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: spring-boot-watch-pipeline-activity
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
