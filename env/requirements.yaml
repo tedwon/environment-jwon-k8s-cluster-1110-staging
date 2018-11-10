@@ -31,9 +31,6 @@ dependencies:
 - name: scala-akka-http-quickstart
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: spring-boot-rest-prometheus
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: starter1110
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.1
